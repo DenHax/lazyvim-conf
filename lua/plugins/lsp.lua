@@ -15,10 +15,12 @@ return {
         "shfmt",
 
         -- web dev
-        --"tailwindcss-language-server",
+        -- "tailwindcss-language-server",
         --"typescript-language-server",
         "css-lsp",
-        -- "prettierd",
+        "html-lsp",
+        "htmx-lsp",
+        "prettierd",
       })
     end,
   },
