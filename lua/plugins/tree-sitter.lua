@@ -13,6 +13,11 @@ return {
       "typescript",
       "tsx",
       -- "python",
+      --
+      "go",
+      "gomod",
+      "gowork",
+      "gosum",
       -- embedded lngs
       -- "c",
       "rust",

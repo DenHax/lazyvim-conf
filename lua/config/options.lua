@@ -11,4 +11,5 @@
 vim.cmd("set noswapfile")
 vim.opt.winbar = "%=%m %f"
 
--- vim.opt.listchars = "eol"
+-- Do in Neovim  make the lines that don't fit visually movechain
+vim.opt.wrap = true

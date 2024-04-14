@@ -21,6 +21,15 @@ return {
         "html-lsp",
         "htmx-lsp",
         "prettierd",
+        "intelephense",
+
+        "gofumpt",
+        "goimports",
+        "gopls",
+
+        -- specific
+        "docker-compose-language-service",
+        "dockerfile-language-server",
       })
     end,
   },
